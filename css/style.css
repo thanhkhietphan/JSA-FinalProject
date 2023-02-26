@@ -99,7 +99,7 @@ button:focus {
       padding-top: 80px; } }
 
 .section_gap_bottom {
-  padding-bottom: 120px; }
+  padding-bottom: 85px; }
   @media (max-width: 991px) {
     .section_gap_bottom {
       padding-bottom: 80px; } }
@@ -126,7 +126,7 @@ button:focus {
 /* Main Title Area css
 ============================================================================================ */
 .main_title {
-  margin-bottom: 70px; }
+  margin-bottom: 30px; }
   @media (max-width: 991px) {
     .main_title {
       margin-bottom: 40px; } }
@@ -142,6 +142,7 @@ button:focus {
         font-size: 36px; } }
   .main_title p {
     margin-bottom: 0; }
+    
 
 /* End Main Title Area css
 ============================================================================================ */
@@ -471,7 +472,7 @@ button:focus {
 /* Home Banner Area css
 ============================================================================================ */
 .home-banner-area {
-  background: #ffffff;
+  /* background:#ffffff; */
   position: relative; }
   .home-banner-area .owl-nav {
     right: 58%;
@@ -3634,6 +3635,15 @@ h6 {
 .footer-text a,
 .footer-text i {
   color: #f8b600; }
+  
+
+
+.background-div{
+  background: url(http://halongcity.gov.vn/ckfinder/userfiles/images/2022/05/Loan/hanh/ltdl%20vinh%20HL.jpg); background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  height: 600px;
+}
 
 /* =================================== */
 /*  End Footer Area CSS
