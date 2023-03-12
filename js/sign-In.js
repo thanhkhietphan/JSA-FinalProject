@@ -12,7 +12,7 @@ btnSignIn.addEventListener("click", () => {
         let isValuePwd = validatePwd(pwd)
         if (isValueEmail && isValuePwd) {
             alert('Đăng nhập thành công')
-            setTimeout(window.location = "../index.html", 1000)
+            setTimeout(window.location = "../logInSuccess.html", 1000)
         } else {
             alert("Tài khoản không tồn tại")
         }
