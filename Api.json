@@ -2,7 +2,7 @@
     {
         "id": 1,
         "image": "img/Thue-xe-7-cho-co-tai-TPHCM.jpg",
-        "title": "Có Dịch Vụ Cho Thuê Xe Sang Trọng",
+        "title": " Dịch Vụ Cho Thuê Xe Sang Trọng",
         "disc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
     },
     {
@@ -14,7 +14,7 @@
     {
         "id": 3,
         "image": "img/blog/h-blog3.jpg",
-        "title": "Địa điểm tuyệt vời để đi du lịch",
+        "title": "Nhiều địa điểm tuyệt vời để đi du lịch",
         "disc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
     }
 ]
